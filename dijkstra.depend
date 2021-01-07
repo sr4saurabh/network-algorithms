@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1610023266 source:d:\rec\dijkstra\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1609999371 source:d:\rec\dijkstra\bellman.c
+	<stdio.h>
+
+1610004636 source:d:\rec\dijkstra\leaky.c
+	<stdio.h>
+
+1610004958 source:d:\rec\dijkstra\gobacksliding.c
+	<stdio.h>
+
+1610006108 source:d:\rec\dijkstra\diffiehellman.c
+	<stdio.h>
+
+1610008302 source:d:\rec\dijkstra\rsa.c
+	<stdio.h>
+	<math.h>
+
+1610008421 source:d:\rec\dijkstra\checksum.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1610023279 source:d:\rec\dijkstra\pq.c
+	<stdio.h>
+
